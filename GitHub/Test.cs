@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitHub
 {
-    class Program
+    class Test
     {
         static void Main(string[] args)
         {
-            //Inital Projet 
-            // Code 01  
-            // Code 02
+            //Code Test
             
         }
     }
