@@ -11,7 +11,7 @@ namespace GitHub
         static void Main(string[] args)
         {
             //Inital Projet 
-            // Code 01
+            // Code 01 
             // Code 02
             
         }
